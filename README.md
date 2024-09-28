@@ -21,10 +21,9 @@ This repository contains the source code for a Job Portal Application. This appl
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript (React/Vue/Angular)
 - **Backend:** Node.js with Express
-- **Database:** MongoDB/MySQL
+- **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Tokens)
-- **Deployment:** Heroku/AWS
-
+- 
 ## Installation
 
 1. Clone the repository:
